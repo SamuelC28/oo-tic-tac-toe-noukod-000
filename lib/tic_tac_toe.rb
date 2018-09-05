@@ -2,7 +2,7 @@
 require 'pry'
 require_relative '../lib/tic_tac_toe.rb'
 
-class TicTacToe (board)
+class TicTacToe 
 
   WIN_COMBINATIONS = [
     [0, 1, 2],
